@@ -11,7 +11,7 @@ tags: ["mac", "前端", "技巧"]
 ![](https://ws3.sinaimg.cn/large/006tNc79gy1frx0c8pfpwj31kw16ix4b.jpg)
 *<center>（15.4英寸，16G内存，500G硬盘，16762元）</center>*
 
-## 为什么决定买mac用
+## 为什么决定买mac
 
 
 上大学那会就体验过mac系统了，然并没有什么特别的感悟，直到学写code，更深入地了解了下mac系统后才真正被其所吸引，奈何mac电脑的价格真心贵，一直没入手，真正狠下心来要买一台mac用是在今年5月，有几个原因：  
@@ -58,6 +58,7 @@ tags: ["mac", "前端", "技巧"]
 6. npm install + 【包】，安装一个包老是错误，出现这样的提示：Error: EACCES: permission denied, access '/usr/local/lib/node_modules'，可以在npm前面加个sudo，表示以管理员模式运行，就不会出现错误了。
 7. 苹果电脑上直接按delete键是无法删除文件的，需要用command + delete键
 8. mac里切换输入法用的是cps lock键，而想输入大写字母用的是shift + 字母 实现。
+9. 三指或四指上滑，可实现多窗口切换，另外command + tab 可以实现多应用切换。
 
 
 
